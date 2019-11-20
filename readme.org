@@ -17,3 +17,15 @@
 | ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d       |                             |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                    | https://nasy.moe/           |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config      | https://ksqsf.moe/          |
+
+
+Telegram 上和 Emacs 相关的群有
+
+| 群组链接                  | 名称              | 语言     |
+|---------------------------+-------------------+----------|
+| https://t.me/emacszh      | Emacs 中文        | 简体中文 |
+| https://t.me/emacs_usr    | Emacs User        | 简体中文 |
+| https://t.me/with_emacs   | GNU Emacs拓荒小组 | 简体中文 |
+| https://Emacser.tw        | Emacs 台湾        | 繁体中文 |
+| https://t.me/emacs_en     | Emacs             | 英文     |
+| https://t.me/emacs_telega | telega.el         | 英文     |
