@@ -12,6 +12,7 @@
 | Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d       |                             |
 | Yinologist Citreu |                | https://framagit.org/citreu/dotfiles       | https://cireu.github.io/    |
 | seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/     |                             |
+| wgjak47           | @wgjak47       |                                            | http://wgjak47.me/          |
 | yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d          |                             |
 | ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d       |                             |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                    | https://nasy.moe/           |
