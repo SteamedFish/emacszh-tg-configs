@@ -2,17 +2,17 @@
 
 排名以 Telegram ID 排序。提交 PR 时请首先使用 C-c ^ 排序。
 
-| 名称              | Telegram ID    | 配置文件地址                               |
-|-------------------+----------------+--------------------------------------------|
-| Yinologist Citreu |                | https://framagit.org/citreu/dotfiles       |
-| Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d       |
-| ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d       |
-| Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac  |
-| SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles    |
-| Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig   |
-| Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d       |
-| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config      |
-| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                    |
-| seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/     |
-| Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/ |
-| yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d          |
+| 名称              | Telegram ID    | 配置文件地址                               | 博客或主页               |
+|-------------------+----------------+--------------------------------------------+--------------------------|
+| Yinologist Citreu |                | https://framagit.org/citreu/dotfiles       | https://cireu.github.io/ |
+| Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d       |                          |
+| ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d       |                          |
+| Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac  | https://darksair.org/    |
+| SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles    | https://steamedfish.org/ |
+| Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig   |                          |
+| Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d       |                          |
+| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config      |                          |
+| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                    | https://nasy.moe/        |
+| seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/     |                          |
+| Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/ |                          |
+| yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d          |                          |
