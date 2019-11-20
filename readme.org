@@ -9,7 +9,7 @@
 | Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac  | https://darksair.org/       |
 | Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/ |                             |
 | SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles    | https://steamedfish.org/    |
-| Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d       |                             |
+| Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d       | https://sunyour.org/        |
 | Yinologist Citreu |                | https://framagit.org/citreu/dotfiles       | https://cireu.github.io/    |
 | seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/     |                             |
 | yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d          |                             |
