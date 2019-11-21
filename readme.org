@@ -7,7 +7,7 @@
 | Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig    |                               |
 | Claude Ray        | @ClaudeRay     | https://github.com/Claude-Ray/spacemacs.d   | https://claude-ray.github.io/ |
 | Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d        | https://evanmeek.github.io/   |
-| Jen-Chieh Shen    | jayces         | https://github.com/jcs090218/jcs-emacs-init | http://www.jcs-profile.com/   |
+| Jen-Chieh Shen    | @jayces        | https://github.com/jcs090218/jcs-emacs-init | http://www.jcs-profile.com/   |
 | Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac   | https://darksair.org/         |
 | Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/  |                               |
 | SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles     | https://steamedfish.org/      |
