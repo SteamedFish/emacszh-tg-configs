@@ -4,7 +4,7 @@
 
 | 名称              | Telegram ID    | 配置文件地址                                | 博客或主页                             | 备注                                   |
 |-------------------+----------------+---------------------------------------------+----------------------------------------+----------------------------------------|
-| Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig    |                                        |                                        |
+| Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig    | https://live.bilibili.com/21290308     |                                        |
 | Bob Pumpkin       |                |                                             | https://pumpkinblog.top/               |                                        |
 | Claude Ray        | @ClaudeRay     | https://github.com/Claude-Ray/spacemacs.d   | https://claude-ray.github.io/          |                                        |
 | Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d        | https://evanmeek.github.io/            |                                        |
