@@ -14,6 +14,7 @@
 | Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/  |                                        |                                        |
 | SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles     | https://steamedfish.org/               |                                        |
 | Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d        | https://sunyour.org/                   |                                        |
+| Tiou              | @douo          | https://github.com/douo/lims_doc_emacs      | https://dourok.info                    |                                        |
 | Yinologist Citreu |                | https://framagit.org/citreu/dotfiles        | https://cireu.github.io/               |                                        |
 | seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/      |                                        | 著名的 Centaur Emacs，新手入门推荐     |
 | wgjak47           | @wgjak47       |                                             | http://wgjak47.me/                     |                                        |
