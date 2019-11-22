@@ -2,23 +2,25 @@
 
 以名称排序。提交 PR 时请首先使用 C-c ^ 排序。
 
-| 名称              | Telegram ID    | 配置文件地址                                | 博客或主页                    |
-|-------------------+----------------+---------------------------------------------+-------------------------------|
-| Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig    |                               |
-| Claude Ray        | @ClaudeRay     | https://github.com/Claude-Ray/spacemacs.d   | https://claude-ray.github.io/ |
-| Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d        | https://evanmeek.github.io/   |
-| Jen-Chieh Shen    | @jayces        | https://github.com/jcs090218/jcs-emacs-init | http://www.jcs-profile.com/   |
-| Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac   | https://darksair.org/         |
-| Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/  |                               |
-| SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles     | https://steamedfish.org/      |
-| Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d        | https://sunyour.org/          |
-| Yinologist Citreu |                | https://framagit.org/citreu/dotfiles        | https://cireu.github.io/      |
-| seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/      |                               |
-| wgjak47           | @wgjak47       |                                             | http://wgjak47.me/            |
-| yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d           |                               |
-| ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d        |                               |
-| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                     | https://nasy.moe/             |
-| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config       | https://ksqsf.moe/            |
+| 名称              | Telegram ID    | 配置文件地址                                | 博客或主页                             | 备注                                   |
+|-------------------+----------------+---------------------------------------------+----------------------------------------+----------------------------------------|
+| Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig    |                                        |                                        |
+| Bob Pumpkin       |                |                                             | https://pumpkinblog.top/               |                                        |
+| Claude Ray        | @ClaudeRay     | https://github.com/Claude-Ray/spacemacs.d   | https://claude-ray.github.io/          |                                        |
+| Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d        | https://evanmeek.github.io/            |                                        |
+| Jen-Chieh Shen    | @jayces        | https://github.com/jcs090218/jcs-emacs-init | http://www.jcs-profile.com/            |                                        |
+| Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac   | https://darksair.org/                  |                                        |
+| Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/  |                                        |                                        |
+| SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles     | https://steamedfish.org/               |                                        |
+| Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d        | https://sunyour.org/                   |                                        |
+| Yinologist Citreu |                | https://framagit.org/citreu/dotfiles        | https://cireu.github.io/               |                                        |
+| seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/      |                                        | 著名的 Centaur Emacs，新手入门推荐     |
+| wgjak47           | @wgjak47       |                                             | http://wgjak47.me/                     |                                        |
+| yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d           |                                        |                                        |
+| ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d        |                                        |                                        |
+| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                     | https://nasy.moe/                      | GitHub https://github.com/nasyxx/      |
+| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config       | https://ksqsf.moe/                     |                                        |
+| 📝 427            | @stanley_427   | https://gitee.com/blindingdark/BEmacs       | https://www.jianshu.com/u/ea4015fcb048 | GitHub https://github.com/blindingdark |
 
 
 Telegram 上和 Emacs 相关的群有
