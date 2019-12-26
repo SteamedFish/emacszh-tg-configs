@@ -1,4 +1,4 @@
-#+TITLE:   @emacszh telegram 群组用户的 Emacs 配置文件
+#+TITLE:   @emacs_zh telegram 群组用户的 Emacs 配置文件
 
 以名称排序。提交 PR 时请首先使用 C-c ^ 排序。
 
@@ -30,7 +30,7 @@ Telegram 上和 Emacs 相关的群有
 
 | 群组链接                  | 名称              | 语言     |
 |---------------------------+-------------------+----------|
-| https://t.me/emacszh      | Emacs 中文        | 简体中文 |
+| https://t.me/emacs_zh     | Emacs 中文        | 简体中文 |
 | https://t.me/emacs_usr    | Emacs User        | 简体中文 |
 | https://t.me/with_emacs   | GNU Emacs 拓荒小组 | 简体中文 |
 | https://Emacser.tw        | Emacs 台灣        | 繁体中文 |
