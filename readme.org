@@ -13,6 +13,7 @@
 | Jen-Chieh Shen    | @jayces        | https://github.com/jcs090218/jcs-emacs-init                | http://www.jcs-profile.com/            |                                        |   |
 | Joseph Pei        | @josephpei     |                                                            | http://josephpei.github.io/            |                                        |   |
 | Keke              | @KekeQwQ       | https://github.com/kekeimiku/emacs-nw                      |                                        |                                        |   |
+| keke              | @kekeQAQ       | https://github.com/keke-cute/.emacs.d                      |                                        |                                        |   |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config                      | https://ksqsf.moe/                     |                                        |   |
 | Locez             | @Locez         | https://github.com/locez/Loceziazation/tree/master/.doom.d | https://locez.com                      | GitHub https://github.com/locez        |   |
 | Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac                  | https://darksair.org/                  |                                        |   |
@@ -23,6 +24,7 @@
 | Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d                       | https://sunyour.org/                   |                                        |   |
 | Tiou              | @douo          | https://github.com/douo/lims_dot_emacs                     | https://dourok.info                    |                                        |   |
 | wgjak47           | @wgjak47       |                                                            | http://wgjak47.me/                     |                                        |   |
+| xiaokeke          | @kekeQAQ       | https://github.com/keke-cute/.emacs.d                      |                                        |                                        |   |
 | yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d                          |                                        |                                        |   |
 | Yinologist Citreu |                | https://framagit.org/citreu/dotfiles                       | https://cireu.github.io/               |                                        |   |
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | https://github.com/slmoby/.emacs.d                         | https://www.slmoby.top                 |                                        |   |
