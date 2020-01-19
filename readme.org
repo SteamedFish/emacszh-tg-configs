@@ -13,7 +13,6 @@
 | Jen-Chieh Shen    | @jayces        | https://github.com/jcs090218/jcs-emacs-init                | http://www.jcs-profile.com/            |                                        |   |
 | Joseph Pei        | @josephpei     |                                                            | http://josephpei.github.io/            |                                        |   |
 | Keke              | @KekeQwQ       | https://github.com/kekeimiku/emacs-nw                      |                                        |                                        |   |
-| keke              | @kekeQAQ       | https://github.com/keke-cute/.emacs.d                      |                                        |                                        |   |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config                      | https://ksqsf.moe/                     |                                        |   |
 | Locez             | @Locez         | https://github.com/locez/Loceziazation/tree/master/.doom.d | https://locez.com                      | GitHub https://github.com/locez        |   |
 | Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac                  | https://darksair.org/                  |                                        |   |
