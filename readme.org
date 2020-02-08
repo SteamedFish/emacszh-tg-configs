@@ -6,6 +6,7 @@
 |-------------------+----------------+------------------------------------------------------------+----------------------------------------+----------------------------------------+---|
 | 📝 427            | @stanley_427   | https://gitee.com/blindingdark/BEmacs                      | https://www.jianshu.com/u/ea4015fcb048 | GitHub https://github.com/blindingdark |   |
 | Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig                   | https://live.bilibili.com/21290308     |                                        |   |
+| Auxy        |      | https://github.com/Auxy233/emacs.d                   | https://www.auxy.xyz     |    Sweet Evil Emacs                                    |   |
 | Bob Pumpkin       |                |                                                            | https://pumpkinblog.top/               |                                        |   |
 | ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d                       |                                        |                                        |   |
 | Claude Ray        | @ClaudeRay     | https://github.com/Claude-Ray/spacemacs.d                  | https://claude-ray.github.io/          |                                        |   |
