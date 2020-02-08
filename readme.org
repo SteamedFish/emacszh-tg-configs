@@ -7,7 +7,7 @@
 | 📝 427            | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                          | [[https://github.com/blindingdark][GitHub]]                             |
 | Amos Bird         | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                       |                                    |
 | Auxy              |                | [[https://github.com/Auxy233/emacs.d][GitHub]]       | https://www.auxy.xyz          | Sweet Evil Emacs                   |
-| Bob Pumpkin       |                |              | https://pumpkinblog.top/      |                                    |
+| Bob Pumpkin       |                |              | https://pumpkinblog.top/      | [[https://github.com/toure00][GitHub]]                             |
 | ɓuızıuoI          | @Ionizing      | [[https://github.com/Ionizing/.emacs.d][GitHub]]       |                               |                                    |
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top        |                                    |
 | Claude Ray        | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/ |                                    |
