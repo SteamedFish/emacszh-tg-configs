@@ -4,30 +4,31 @@
 
 | 名称              | Telegram ID    | 配置文件地址                                               | 博客或主页                             | 备注                                   |   |
 |-------------------+----------------+------------------------------------------------------------+----------------------------------------+----------------------------------------+---|
-| 📝 427            | @stanley_427   | https://gitee.com/blindingdark/BEmacs                      | https://www.jianshu.com/u/ea4015fcb048 | GitHub https://github.com/blindingdark |   |
 | Amos Bird         | @amosbird      | https://github.com/amosbird/serverconfig                   | https://live.bilibili.com/21290308     |                                        |   |
 | Auxy        |      | https://github.com/Auxy233/emacs.d                   | https://www.auxy.xyz     |    Sweet Evil Emacs                                    |   |
 | Bob Pumpkin       |                |                                                            | https://pumpkinblog.top/               |                                        |   |
-| ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d                       |                                        |                                        |   |
 | Claude Ray        | @ClaudeRay     | https://github.com/Claude-Ray/spacemacs.d                  | https://claude-ray.github.io/          |                                        |   |
 | Evan Meek         | @EvanMeek      | https://github.com/EvanMeek/.emacs.d                       | https://evanmeek.github.io/            |                                        |   |
 | Jen-Chieh Shen    | @jayces        | https://github.com/jcs090218/jcs-emacs-init                | http://www.jcs-profile.com/            |                                        |   |
 | Joseph Pei        | @josephpei     |                                                            | http://josephpei.github.io/            |                                        |   |
 | Keke              | @KekeQwQ       | https://github.com/kekeimiku/emacs-nw                      |                                        |                                        |   |
-| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config                      | https://ksqsf.moe/                     |                                        |   |
 | Locez             | @Locez         | https://github.com/locez/Loceziazation/tree/master/.doom.d | https://locez.com                      | GitHub https://github.com/locez        |   |
 | Metro Wind        | @MetroWind     | https://github.com/MetroWind/dotfiles-mac                  | https://darksair.org/                  |                                        |   |
-| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                                    | https://nasy.moe/                      | GitHub https://github.com/nasyxx/      |   |
-| seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/                     |                                        | 著名的 Centaur Emacs，新手入门推荐     |   |
 | Sheng Yang        | @yangsheng6810 | https://github.com/yangsheng6810/dotfiles/                 |                                        |                                        |   |
 | SteamedFish       | @SteamedFish   | https://github.com/steamedfish/dotfiles                    | https://steamedfish.org/               |                                        |   |
 | Sunn Yao          | @cnsunyour     | https://github.com/cnsunyour/.doom.d                       | https://sunyour.org/                   |                                        |   |
+| Tianshu Wang      | @Voleking      | https://github.com/tshu-w/spacemacs-configuration          |                                        |                                        |   |
 | Tiou              | @douo          | https://github.com/douo/lims_dot_emacs                     | https://dourok.info                    |                                        |   |
+| Yinologist Citreu |                | https://framagit.org/citreu/dotfiles                       | https://cireu.github.io/               |                                        |   |
+| seagle0128        | @seagle0128    | https://seagle0128.github.io/.emacs.d/                     |                                        | 著名的 Centaur Emacs，新手入门推荐     |   |
 | wgjak47           | @wgjak47       |                                                            | http://wgjak47.me/                     |                                        |   |
 | xiaokeke          | @kekeQAQ       | https://github.com/keke-cute/.emacs.d                      |                                        |                                        |   |
 | yfzhe             | @yfzhe         | https://github.com/yfzhe/.emacs.d                          |                                        |                                        |   |
-| Yinologist Citreu |                | https://framagit.org/citreu/dotfiles                       | https://cireu.github.io/               |                                        |   |
+| ɓuızıuoI          | @Ionizing      | https://github.com/Ionizing/.emacs.d                       |                                        |                                        |   |
+| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | https://emacs.nasy.moe/                                    | https://nasy.moe/                      | GitHub https://github.com/nasyxx/      |   |
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | https://github.com/slmoby/.emacs.d                         | https://www.slmoby.top                 |                                        |   |
+| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | https://github.com/ksqsf/emacs-config                      | https://ksqsf.moe/                     |                                        |   |
+| 📝 427            | @stanley_427   | https://gitee.com/blindingdark/BEmacs                      | https://www.jianshu.com/u/ea4015fcb048 | GitHub https://github.com/blindingdark |   |
 
 
 
