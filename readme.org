@@ -17,6 +17,7 @@
 | Keke              | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                               |                                    |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | [[https://github.com/ksqsf/emacs-config][GitHub]]       | https://ksqsf.moe/            |                                    |
 | Locez             | @Locez         | [[https://github.com/locez/Loceziazation/tree/master/.doom.d][GitHub]]       | https://locez.com             | [[https://github.com/locez][GitHub]]                             |
+| Matthew Zeng      | @matthewzmd    | [[https://github.com/MatthewZMD/.emacs.d][Github]]       |                               | M-EMACS                            |
 | Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/         |                                    |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/             | [[https://github.com/nasyxx/][GitHub]]                             |
 | seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                               | 著名的 Centaur Emacs，新手入门推荐 |
@@ -29,10 +30,6 @@
 | xiaokeke          | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                               |                                    |
 | yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                               |                                    |
 | Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/      |                                    |
-
-
-
-
 
 Telegram 上和 Emacs 相关的群有
 
