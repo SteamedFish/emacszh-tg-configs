@@ -30,6 +30,7 @@
 | xiaokeke          | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                               |                                    |
 | yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                               |                                    |
 | Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/      |                                    |
+| Youmu             | @Youmu         | [[https://github.com/condy0919/.emacs.d][GitHub]]       | [[https://condy0919.github.io]]   |                                    |
 
 Telegram 上和 Emacs 相关的群有
 
