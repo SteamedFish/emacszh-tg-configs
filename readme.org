@@ -42,3 +42,11 @@ Telegram 上和 Emacs 相关的群有
 | https://Emacser.tw        | Emacs 台灣        | 繁体中文 |
 | https://t.me/emacs_en     | Emacs (english)   | 英文     |
 | https://t.me/emacs_telega | telega.el         | 英文     |
+
+* 相关视频
+
+** [[https://book.emacs-china.org/][Master Emacs in 21 days]]
+
+** 工欲善其事必先利其器系列
+  - [[https://www.acfun.cn/v/ac14297065][第一话 projectile]]
+  - [[https://www.acfun.cn/v/ac14543547][第二话 ivy, counsel, swiper]]
