@@ -12,7 +12,7 @@
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                    |
 | Claude Ray        | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/  |                                    |
 | Dσɠ LσσƙʂGσσԃ     | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                    |
-| Evan Meek         | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    |                                    |
+| Evan Meek         | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置       |
 | Jen-Chieh Shen    | @jayces        | [[https://github.com/jcs090218/jcs-emacs-init][GitHub]]       | http://www.jcs-profile.com/    |                                    |
 | Joseph Pei        | @josephpei     |              | http://josephpei.github.io/    |                                    |
 | Keke              | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                                |                                    |
