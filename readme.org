@@ -24,6 +24,7 @@
 | seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐 |
 | Sheng Yang        | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                    |
 | Sinkerine         | @sinker        | [[https://github.com/15cm/spacemacs-config][GitHub]]       | [[https://blog.15cm.net/][https://blog.15cm.net/]]         |                                    |
+| Sinxccc           | @sinxccc       | [[https://github.com/railwaycat/emacs-config][GitHub]]       | https://saturnpole.com/        |                                    |
 | SteamedFish       | @SteamedFish   | [[https://github.com/steamedfish/dotfiles][GitHub]]       | https://steamedfish.org/       |                                    |
 | Sunn Yao          | @cnsunyour     | [[https://github.com/cnsunyour/.doom.d][GitHub]]       | https://sunyour.org/           |                                    |
 | Tianshu Wang      | @Voleking      | [[https://github.com/tshu-w/spacemacs-configuration][GitHub]]       |                                |                                    |
