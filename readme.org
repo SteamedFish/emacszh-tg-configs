@@ -21,6 +21,7 @@
 | Matthew Zeng      | @matthewzmd    | [[https://github.com/MatthewZMD/.emacs.d][Github]]       |                                | M-EMACS                            |
 | Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                    |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/              | [[https://github.com/nasyxx/][GitHub]]                             |
+| OceanSen          | @oceansen      | [[https://github.com/OceanS2000/doom-config][GitHub]]       |                                |                                    |
 | seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐 |
 | Sheng Yang        | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                    |
 | Sinkerine         | @sinker        | [[https://github.com/15cm/spacemacs-config][GitHub]]       | [[https://blog.15cm.net/][https://blog.15cm.net/]]         |                                    |
