@@ -23,14 +23,14 @@
 | Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                    |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/              | [[https://github.com/nasyxx/][GitHub]]                             |
 | OceanSen          | @oceansen      | [[https://github.com/OceanS2000/doom-config][GitHub]]       |                                |                                    |
-| Pos Dog           | @PosDog       | [[https://github.com/laishulu/conf][GitHub]]       |                                |                                    |
+| Pos Dog           | @PosDog        | [[https://github.com/laishulu/conf][GitHub]]       |                                |                                    |
 | seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐 |
 | Sheng Yang        | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                    |
 | Sinkerine         | @sinker        | [[https://github.com/15cm/spacemacs-config][GitHub]]       | [[https://blog.15cm.net/][https://blog.15cm.net/]]         |                                    |
 | Sinxccc           | @sinxccc       | [[https://github.com/railwaycat/emacs-config][GitHub]]       | https://saturnpole.com/        |                                    |
 | SteamedFish       | @SteamedFish   | [[https://github.com/steamedfish/dotfiles][GitHub]]       | https://steamedfish.org/       |                                    |
 | Sunn Yao          | @cnsunyour     | [[https://github.com/cnsunyour/.doom.d][GitHub]]       | https://sunyour.org/           |                                    |
-| Tianshu Wang      | @Voleking      | [[https://github.com/tshu-w/spacemacs-configuration][GitHub]]       |                                |                                    |
+| tshu-w            | @Voleking      | [[https://github.com/tshu-w/.emacs.d][Github]]       |                                | 旧的 Spacemacs [[https://github.com/tshu-w/spacemacs-configuration][配置]]                |
 | Tiou              | @douo          | [[https://github.com/douo/lims_dot_emacs][GitHub]]       | https://dourok.info            |                                    |
 | Vonfry            | @Vonfry        | [[https://gitlab.com/Vonfry/dotfiles/-/tree/develop/config/emacs.d][GitLab]]       | https://vonfry.name            |                                    |
 | wgjak47           | @wgjak47       |              | http://wgjak47.me/             |                                    |
