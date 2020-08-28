@@ -33,7 +33,7 @@
 | Tianshu Wang      | @Voleking      | [[https://github.com/tshu-w/spacemacs-configuration][GitHub]]       |                                |                                    |
 | Tiou              | @douo          | [[https://github.com/douo/lims_dot_emacs][GitHub]]       | https://dourok.info            |                                    |
 | Vonfry            | @Vonfry        | [[https://gitlab.com/Vonfry/dotfiles/-/tree/develop/config/emacs.d][GitLab]]       | https://vonfry.name            |                                    |
-| wgjak47           | @wgjak47       | [[https://github.com/wgjak47/dotfile]]             | http://wgjak47.me/             |                                    |
+| wgjak47           | @wgjak47       | [[https://github.com/wgjak47/dotfile][GitHub]]             | http://wgjak47.me/             |                                    |
 | xiaokeke          | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                                |                                    |
 | yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                    |
 | Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                    |
