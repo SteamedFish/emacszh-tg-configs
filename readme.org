@@ -15,6 +15,7 @@
 | Evan Meek         | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置       |
 | Howard Cheung     | @hwdc0         | [[https://gitlab.com/h-cheung/dotfiles/][GitLab]]       | https://h-cheung.gitlab.io/    |                                    |
 | Jen-Chieh Shen    | @jayces        | [[https://github.com/jcs090218/jcs-emacs-init][GitHub]]       | http://www.jcs-profile.com/    |                                    |
+| JimMoen           | @JimMoen       | [[https://github.com/JimMoen/Emacs-Config][GitHub]]       |                                |                                    |
 | Joseph Pei        | @josephpei     |              | http://josephpei.github.io/    |                                    |
 | Keke              | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                                |                                    |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | [[https://github.com/ksqsf/emacs-config][GitHub]]       | https://ksqsf.moe/             |                                    |
@@ -30,10 +31,10 @@
 | Sinxccc           | @sinxccc       | [[https://github.com/railwaycat/emacs-config][GitHub]]       | https://saturnpole.com/        |                                    |
 | SteamedFish       | @SteamedFish   | [[https://github.com/steamedfish/dotfiles][GitHub]]       | https://steamedfish.org/       |                                    |
 | Sunn Yao          | @cnsunyour     | [[https://github.com/cnsunyour/.doom.d][GitHub]]       | https://sunyour.org/           |                                    |
-| tshu-w            | @Voleking      | [[https://github.com/tshu-w/.emacs.d][Github]]       |                                | 旧的 Spacemacs [[https://github.com/tshu-w/spacemacs-configuration][配置]]                |
 | Tiou              | @douo          | [[https://github.com/douo/lims_dot_emacs][GitHub]]       | https://dourok.info            |                                    |
+| tshu-w            | @Voleking      | [[https://github.com/tshu-w/.emacs.d][Github]]       |                                | 旧的 Spacemacs [[https://github.com/tshu-w/spacemacs-configuration][配置]]                |
 | Vonfry            | @Vonfry        | [[https://gitlab.com/Vonfry/dotfiles/-/tree/develop/config/emacs.d][GitLab]]       | https://vonfry.name            |                                    |
-| wgjak47           | @wgjak47       | [[https://github.com/wgjak47/dotfile][GitHub]]             | http://wgjak47.me/             |                                    |
+| wgjak47           | @wgjak47       | [[https://github.com/wgjak47/dotfile][GitHub]]       | http://wgjak47.me/             |                                    |
 | xiaokeke          | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                                |                                    |
 | yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                    |
 | Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                    |
