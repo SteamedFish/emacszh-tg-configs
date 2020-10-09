@@ -52,6 +52,13 @@ Telegram 上和 Emacs 相关的群有
 | https://t.me/emacs_en     | Emacs (english)   | 英文     |
 | https://t.me/emacs_telega | telega.el         | 英文     |
 
+Telegram 上本群的附属频道有
+
+| 频道链接                  | 名称              | 简介     |
+|---------------------------+-------------------+----------|
+| https://t.me/emacs_zh_jokes    | Emacs 梗        | Emacs 人经典对话集锦 |
+| https://t.me/emacsporn    | Emacsporn        | 漂亮的 Emacs 截图 |
+
 * 相关视频
 
 ** [[https://book.emacs-china.org/][Master Emacs in 21 days]]
