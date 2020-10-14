@@ -19,6 +19,7 @@
 | JimMoen           | @JimMoen       | [[https://github.com/JimMoen/Emacs-Config][GitHub]]       |                                |                                             |
 | Joseph Pei        | @josephpei     |              | http://josephpei.github.io/    |                                             |
 | Keke              | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                                |                                             |
+| KiteAB            | @KiteAB        | [[https://github.com/KiteAB/.emacs.d][GitHub]]       | https://kiteab.ga/             | 全场最烂配置, 勿喷                          |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | [[https://github.com/ksqsf/emacs-config][GitHub]]       | https://ksqsf.moe/             |                                             |
 | Locez             | @Locez         | [[https://github.com/locez/Loceziazation/tree/master/.doom.d][GitHub]]       | https://locez.com              | [[https://github.com/locez][GitHub]]                                      |
 | Matthew Zeng      | @matthewzmd    | [[https://github.com/MatthewZMD/.emacs.d][Github]]       |                                | M-EMACS                                     |
@@ -43,21 +44,21 @@
 
 Telegram 上和 Emacs 相关的群有
 
-| 群组链接                  | 名称              | 语言     |
-|---------------------------+-------------------+----------|
-| https://t.me/emacs_zh     | Emacs 中文        | 简体中文 |
-| https://t.me/emacs_usr    | Emacs User        | 简体中文 |
+| 群组链接                  | 名称               | 语言     |
+|---------------------------+--------------------+----------|
+| https://t.me/emacs_zh     | Emacs 中文         | 简体中文 |
+| https://t.me/emacs_usr    | Emacs User         | 简体中文 |
 | https://t.me/with_emacs   | GNU Emacs 拓荒小组 | 简体中文 |
-| https://Emacser.tw        | Emacs 台灣        | 繁体中文 |
-| https://t.me/emacs_en     | Emacs (english)   | 英文     |
-| https://t.me/emacs_telega | telega.el         | 英文     |
+| https://Emacser.tw        | Emacs 台灣         | 繁体中文 |
+| https://t.me/emacs_en     | Emacs (english)    | 英文     |
+| https://t.me/emacs_telega | telega.el          | 英文     |
 
 Telegram 上本群的附属频道有
 
-| 频道链接                  | 名称              | 简介     |
-|---------------------------+-------------------+----------|
-| https://t.me/emacs_zh_jokes    | Emacs 梗        | Emacs 人经典对话集锦 |
-| https://t.me/emacsporn    | Emacsporn        | 漂亮的 Emacs 截图 |
+| 频道链接                    | 名称      | 简介                 |
+|-----------------------------+-----------+----------------------|
+| https://t.me/emacs_zh_jokes | Emacs 梗  | Emacs 人经典对话集锦 |
+| https://t.me/emacsporn      | Emacsporn | 漂亮的 Emacs 截图    |
 
 * 相关视频
 
