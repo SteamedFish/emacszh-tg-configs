@@ -15,7 +15,7 @@
 | Dσɠ LσσƙʂGσσԃ     | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                             |
 | Evan Meek         | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置                |
 | Harry Ying        | @lexuge        | [[https://github.com/LEXUGE/emacs.d][GitHub]]       | https://lexuge.github.io       | 一个带有预编译 emacs 配置发行版的 Nix Flake |
-| Howard Cheung     | @hwdc0         | [[https://gitlab.com/h-cheung/dotfiles/][GitLab]]       | https://h-cheung.gitlab.io/    |                                             |
+| Howard Cheung     | @hwdc0         | [[https://gitlab.com/h-cheung/doom-emacs-config/][GitLab]]       | https://h-cheung.gitlab.io/    |                                             |
 | Jen-Chieh Shen    | @jayces        | [[https://github.com/jcs090218/jcs-emacs-init][GitHub]]       | http://www.jcs-profile.com/    |                                             |
 | JimMoen           | @JimMoen       | [[https://github.com/JimMoen/Emacs-Config][GitHub]]       |                                |                                             |
 | Joseph Pei        | @josephpei     |              | http://josephpei.github.io/    |                                             |
