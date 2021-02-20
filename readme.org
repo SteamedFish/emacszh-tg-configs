@@ -5,9 +5,10 @@
 | 名称              | Telegram ID    | 配置文件地址 | 博客或主页                     | 备注                                        |
 |-------------------+----------------+--------------+--------------------------------+---------------------------------------------|
 | 📝 427            | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
-| Aimee Zhu         | @aimeedeer      | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev            |     [[https://github.com/Aimeedeer][GitHub]]                                            |
+| Aimee Zhu         | @aimeedeer     | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev               | [[https://github.com/Aimeedeer][GitHub]]                                      |
 | Amos Bird         | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
 | Auxy              |                | [[https://github.com/Auxy233/emacs.d][GitHub]]       | https://www.auxy.xyz           | Sweet Evil Emacs                            |
+| Andy Warhol       | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
 | Bob Pumpkin       |                |              | https://pumpkinblog.top/       | [[https://github.com/toure00][GitHub]]                                      |
 | ɓuızıuoI          | @Ionizing      | [[https://github.com/Ionizing/.emacs.d][GitHub]]       |                                |                                             |
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
