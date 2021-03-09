@@ -28,6 +28,7 @@
 | Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                             |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/              | [[https://github.com/nasyxx/][GitHub]]                                      |
 | OceanSen          | @oceansen      | [[https://github.com/OceanS2000/doom-config][GitHub]]       |                                |                                             |
+| oracleyue         | @oracleyue     | [[https://github.com/oracleyue/dotfiles/tree/master/_emacs.d][GitHub]]       | https://oracleyue.github.io/   | This repo. also has i3 config :)            |
 | Pos Dog           | @PosDog        | [[https://github.com/laishulu/conf][GitHub]]       |                                |                                             |
 | seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐          |
 | Sheng Yang        | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                             |
