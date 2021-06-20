@@ -44,6 +44,7 @@
 | yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                             |
 | Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                             |
 | Youmu             | @Youmu         | [[https://github.com/condy0919/.emacs.d][GitHub]]       | [[https://condy0919.github.io]]    |                                             |
+| zw963             | @zw963          | [[https://github.com/zw963/.emacs.d][Github]]           | https://zw963.online    |                                             |
 
 Telegram 上和 Emacs 相关的群有
 
