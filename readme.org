@@ -9,6 +9,7 @@
 | Amos Bird         | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
 | Auxy              |                | [[https://github.com/Auxy233/emacs.d][GitHub]]       | https://www.auxy.xyz           | Sweet Evil Emacs                            |
 | Andy Warhol       | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
+| Arthur            | @pentaemacs    | [[https://github.com/lijigang/emacs.d][GitHub]]       | https://lijigang.com           |                                             |
 | Bob Pumpkin       |                |              | https://pumpkinblog.top/       | [[https://github.com/toure00][GitHub]]                                      |
 | ɓuızıuoI          | @Ionizing      | [[https://github.com/Ionizing/.emacs.d][GitHub]]       |                                |                                             |
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
