@@ -7,7 +7,6 @@
 | 📝 427            | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
 | Aimee Zhu         | @aimeedeer     | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev               | [[https://github.com/Aimeedeer][GitHub]]                                      |
 | Amos Bird         | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
-| Auxy              |                | [[https://github.com/Auxy233/emacs.d][GitHub]]       | https://www.auxy.xyz           | Sweet Evil Emacs                            |
 | Andy Warhol       | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
 | Arthur            | @pentaemacs    | [[https://github.com/lijigang/emacs.d][GitHub]]       | https://lijigang.com           |                                             |
 | Bob Pumpkin       |                |              | https://pumpkinblog.top/       | [[https://github.com/toure00][GitHub]]                                      |
@@ -15,6 +14,7 @@
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
 | Claude Ray        | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/  |                                             |
 | Dσɠ LσσƙʂGσσԃ     | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                             |
+| Erupmi            |                | [[https://github.com/AxiomCrisis/erupmacs][GitHub]]       |                                | 轻量级配置，尽可能使用内部 packages         |
 | Evan Meek         | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置                |
 | Harry Ying        | @lexuge        | [[https://github.com/LEXUGE/emacs.d][GitHub]]       | https://lexuge.github.io       | 一个带有预编译 emacs 配置发行版的 Nix Flake |
 | Howard Cheung     | @hwdc0         | [[https://gitlab.com/h-cheung/doom-emacs-config/][GitLab]]       | https://h-cheung.gitlab.io/    |                                             |
@@ -45,7 +45,7 @@
 | yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                             |
 | Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                             |
 | Youmu             | @Youmu         | [[https://github.com/condy0919/.emacs.d][GitHub]]       | [[https://condy0919.github.io]]    |                                             |
-| zw963             | @zw963          | [[https://github.com/zw963/.emacs.d][Github]]           | https://zw963.online    |                                             |
+| zw963             | @zw963         | [[https://github.com/zw963/.emacs.d][Github]]       | https://zw963.online           |                                             |
 
 Telegram 上和 Emacs 相关的群有
 
