@@ -24,6 +24,7 @@
 | Keke              | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                                |                                             |
 | KiteAB            | @KiteAB        | [[https://github.com/KiteAB/.emacs.d][GitHub]]       | https://kiteab.ga/             | 全场最烂配置, 勿喷                          |
 | 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | [[https://github.com/ksqsf/emacs-config][GitHub]]       | https://ksqsf.moe/             |                                             |
+| LanderX           | @LanderX       | [[https://github.com/Lander-Hatsune/.emacs][GitHub]]       |                                |                                             |
 | Locez             | @Locez         | [[https://github.com/locez/Loceziazation/tree/master/.doom.d][GitHub]]       | https://locez.com              | [[https://github.com/locez][GitHub]]                                      |
 | Matthew Zeng      | @matthewzmd    | [[https://github.com/MatthewZMD/.emacs.d][Github]]       |                                | M-EMACS                                     |
 | Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                             |
