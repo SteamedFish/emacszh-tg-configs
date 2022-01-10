@@ -4,7 +4,8 @@
 
 | 名称              | Telegram ID    | 配置文件地址 | 博客或主页                     | 备注                                        |
 |-------------------+----------------+--------------+--------------------------------+---------------------------------------------|
-| 📝 427            | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
+| 📝 427           | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
+| AbstProcDo        | @AbstProcDo    | [[https://github.com/AbstProcDo/engine-emacs][Github]]       | [[https://www.toutiao.com/c/user/token/MS4wLjABAAAAqZ83se_ioFoywU1BTUYYTyT1km2-rzpAz6FGB1qi56RHILVGSbVY4fN8ywKMeGYD][头条号]]                         | emacs-doom在win11                           |
 | Aimee Zhu         | @aimeedeer     | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev               | [[https://github.com/Aimeedeer][GitHub]]                                      |
 | Amos Bird         | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
 | Andy Warhol       | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
@@ -30,7 +31,7 @@
 | Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                             |
 | 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/              | [[https://github.com/nasyxx/][GitHub]]                                      |
 | OceanSen          | @oceansen      | [[https://github.com/OceanS2000/doom-config][GitHub]]       |                                |                                             |
-| oracleyue         | @oracleyue     | [[https://github.com/oracleyue/dotfiles/tree/master/_emacs.d][GitHub]]       | https://oracleyue.github.io/   | This repo. also has i3 config :)            |
+| oracleyue         | @oracleyue     | [[https://github.com/oracleyue/dotfiles/tree/master/_emacs.d][GitHub]]       | https://oracleyue.github.io/   | This repo. also has i3 config :)           |
 | Pos Dog           | @PosDog        | [[https://github.com/laishulu/conf][GitHub]]       |                                |                                             |
 | seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐          |
 | Sheng Yang        | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                             |
