@@ -2,52 +2,53 @@
 
 以名称排序。提交 PR 时请首先使用 C-c ^ 排序。
 
-| 名称              | Telegram ID    | 配置文件地址 | 博客或主页                     | 备注                                        |
-|-------------------+----------------+--------------+--------------------------------+---------------------------------------------|
-| 📝 427           | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
-| AbstProcDo        | @AbstProcDo    | [[https://github.com/AbstProcDo/engine-emacs][Github]]       | [[https://www.toutiao.com/c/user/token/MS4wLjABAAAAqZ83se_ioFoywU1BTUYYTyT1km2-rzpAz6FGB1qi56RHILVGSbVY4fN8ywKMeGYD][头条号]]                         | emacs-doom在win11                           |
-| Aimee Zhu         | @aimeedeer     | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev               | [[https://github.com/Aimeedeer][GitHub]]                                      |
-| Amos Bird         | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
-| Andy Warhol       | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
-| Arthur            | @pentaemacs    | [[https://github.com/lijigang/emacs.d][GitHub]]       | https://lijigang.com           |                                             |
-| Bob Pumpkin       |                |              | https://pumpkinblog.top/       | [[https://github.com/toure00][GitHub]]                                      |
-| ɓuızıuoI          | @Ionizing      | [[https://github.com/Ionizing/.emacs.d][GitHub]]       |                                |                                             |
-| 𝒞𝒽𝓇𝒾𝓈-脆脆鲨      | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
-| Claude Ray        | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/  |                                             |
-| Dσɠ LσσƙʂGσσԃ     | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                             |
-| Erupmi            |                | [[https://github.com/AxiomCrisis/erupmacs][GitHub]]       |                                | 轻量级配置，尽可能使用内部 packages         |
-| Evan Meek         | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置                |
-| Harry Ying        | @lexuge        | [[https://github.com/LEXUGE/emacs.d][GitHub]]       | https://lexuge.github.io       | 一个带有预编译 emacs 配置发行版的 Nix Flake |
-| Howard Cheung     | @hwdc0         | [[https://gitlab.com/h-cheung/doom-emacs-config/][GitLab]]       | https://h-cheung.gitlab.io/    |                                             |
-| Jen-Chieh Shen    | @jayces        | [[https://github.com/jcs090218/jcs-emacs-init][GitHub]]       | http://www.jcs-profile.com/    |                                             |
-| JimMoen           | @JimMoen       | [[https://github.com/JimMoen/Emacs-Config][GitHub]]       |                                |                                             |
-| Joseph Pei        | @josephpei     |              | http://josephpei.github.io/    |                                             |
-| Keke              | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                                |                                             |
-| KiteAB            | @KiteAB        | [[https://github.com/KiteAB/.emacs.d][GitHub]]       | https://kiteab.ga/             | 全场最烂配置, 勿喷                          |
-| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯       | @ksqsf         | [[https://github.com/ksqsf/emacs-config][GitHub]]       | https://ksqsf.moe/             |                                             |
-| LanderX           | @LanderX       | [[https://github.com/Lander-Hatsune/.emacs][GitHub]]       |                                |                                             |
-| Locez             | @Locez         | [[https://github.com/locez/Loceziazation/tree/master/.doom.d][GitHub]]       | https://locez.com              | [[https://github.com/locez][GitHub]]                                      |
-| Matthew Zeng      | @matthewzmd    | [[https://github.com/MatthewZMD/.emacs.d][Github]]       |                                | M-EMACS                                     |
-| Metro Wind        | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                             |
-| 𝑵𝒂𝒔𝒚 🧶           | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/              | [[https://github.com/nasyxx/][GitHub]]                                      |
-| OceanSen          | @oceansen      | [[https://github.com/OceanS2000/doom-config][GitHub]]       |                                |                                             |
-| oracleyue         | @oracleyue     | [[https://github.com/oracleyue/dotfiles/tree/master/_emacs.d][GitHub]]       | https://oracleyue.github.io/   | This repo. also has i3 config :)           |
-| Pos Dog           | @PosDog        | [[https://github.com/laishulu/conf][GitHub]]       |                                |                                             |
-| seagle0128        | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐          |
-| Sheng Yang        | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                             |
-| Sinkerine         | @sinker        | [[https://github.com/15cm/spacemacs-config][GitHub]]       | [[https://blog.15cm.net/][https://blog.15cm.net/]]         |                                             |
-| Sinxccc           | @sinxccc       | [[https://github.com/railwaycat/emacs-config][GitHub]]       | https://saturnpole.com/        |                                             |
-| SteamedFish       | @SteamedFish   | [[https://github.com/steamedfish/dotfiles][GitHub]]       | https://steamedfish.org/       |                                             |
-| Sunn Yao          | @cnsunyour     | [[https://github.com/cnsunyour/.doom.d][GitHub]]       | https://sunyour.org/           |                                             |
-| Tiou              | @douo          | [[https://github.com/douo/lims_dot_emacs][GitHub]]       | https://dourok.info            |                                             |
-| tshu-w            | @Voleking      | [[https://github.com/tshu-w/.emacs.d][Github]]       |                                | 旧的 Spacemacs [[https://github.com/tshu-w/spacemacs-configuration][配置]]                         |
-| Vonfry            | @Vonfry        | [[https://gitlab.com/Vonfry/dotfiles/-/tree/develop/config/emacs.d][GitLab]]       | https://vonfry.name            |                                             |
-| wgjak47           | @wgjak47       | [[https://github.com/wgjak47/dotfile][GitHub]]       | http://wgjak47.me/             |                                             |
-| xiaokeke          | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                                |                                             |
-| yfzhe             | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                             |
-| Yinologist Citreu |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                             |
-| Youmu             | @Youmu         | [[https://github.com/condy0919/.emacs.d][GitHub]]       | [[https://condy0919.github.io]]    |                                             |
-| zw963             | @zw963         | [[https://github.com/zw963/.emacs.d][Github]]       | https://zw963.online           |                                             |
+| 名称               | Telegram ID    | 配置文件地址 | 博客或主页                     | 备注                                        |
+|--------------------+----------------+--------------+--------------------------------+---------------------------------------------|
+| 📝 427             | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
+| AbstProcDo         | @AbstProcDo    | [[https://github.com/AbstProcDo/engine-emacs][Github]]       | [[https://www.toutiao.com/c/user/token/MS4wLjABAAAAqZ83se_ioFoywU1BTUYYTyT1km2-rzpAz6FGB1qi56RHILVGSbVY4fN8ywKMeGYD][头条号]]                         | emacs-doom在win11                           |
+| Aimee Zhu          | @aimeedeer     | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev               | [[https://github.com/Aimeedeer][GitHub]]                                      |
+| Amos Bird          | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
+| Andy Warhol        | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
+| Arthur             | @pentaemacs    | [[https://github.com/lijigang/emacs.d][GitHub]]       | https://lijigang.com           |                                             |
+| Bob Pumpkin        |                |              | https://pumpkinblog.top/       | [[https://github.com/toure00][GitHub]]                                      |
+| ɓuızıuoI           | @Ionizing      | [[https://github.com/Ionizing/.emacs.d][GitHub]]       |                                |                                             |
+| 𝒞𝒽𝓇𝒾𝓈-脆脆鲨       | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
+| Claude Ray         | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/  |                                             |
+| Dσɠ LσσƙʂGσσԃ | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                             |
+| Erupmi             |                | [[https://github.com/AxiomCrisis/erupmacs][GitHub]]       |                                | 轻量级配置，尽可能使用内部 packages         |
+| Evan Meek          | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置                |
+| Harry Ying         | @lexuge        | [[https://github.com/LEXUGE/emacs.d][GitHub]]       | https://lexuge.github.io       | 一个带有预编译 emacs 配置发行版的 Nix Flake |
+| Howard Cheung      | @hwdc0         | [[https://gitlab.com/h-cheung/doom-emacs-config/][GitLab]]       | https://h-cheung.gitlab.io/    |                                             |
+| Jen-Chieh Shen     | @jayces        | [[https://github.com/jcs090218/jcs-emacs-init][GitHub]]       | http://www.jcs-profile.com/    |                                             |
+| JimMoen            | @JimMoen       | [[https://github.com/JimMoen/Emacs-Config][GitHub]]       |                                |                                             |
+| Joseph Pei         | @josephpei     |              | http://josephpei.github.io/    |                                             |
+| Keke               | @KekeQwQ       | [[https://github.com/kekeimiku/emacs-nw][GitHub]]       |                                |                                             |
+| KiteAB             | @KiteAB        | [[https://github.com/KiteAB/.emacs.d][GitHub]]       | https://kiteab.ga/             | 全场最烂配置, 勿喷                          |
+| 🅺🆂🆀🆂🅵 𝓴𝓼𝓺𝓼𝓯        | @ksqsf         | [[https://github.com/ksqsf/emacs-config][GitHub]]       | https://ksqsf.moe/             |                                             |
+| LanderX            | @LanderX       | [[https://github.com/Lander-Hatsune/.emacs][GitHub]]       |                                |                                             |
+| Locez              | @Locez         | [[https://github.com/locez/Loceziazation/tree/master/.doom.d][GitHub]]       | https://locez.com              | [[https://github.com/locez][GitHub]]                                      |
+| Matthew Zeng       | @matthewzmd    | [[https://github.com/MatthewZMD/.emacs.d][Github]]       |                                | M-EMACS                                     |
+| Metro Wind         | @MetroWind     | [[https://github.com/MetroWind/dotfiles-mac][GitHub]]       | https://darksair.org/          |                                             |
+| 𝑵𝒂𝒔𝒚 🧶            | @nasyx         | [[https://emacs.nasy.moe/][主页]]         | https://nasy.moe/              | [[https://github.com/nasyxx/][GitHub]]                                      |
+| OceanSen           | @oceansen      | [[https://github.com/OceanS2000/doom-config][GitHub]]       |                                |                                             |
+| oracleyue          | @oracleyue     | [[https://github.com/oracleyue/dotfiles/tree/master/_emacs.d][GitHub]]       | https://oracleyue.github.io/   | This repo. also has i3 config :)            |
+| Pos Dog            | @PosDog        | [[https://github.com/laishulu/conf][GitHub]]       |                                |                                             |
+| seagle0128         | @seagle0128    | [[https://seagle0128.github.io/.emacs.d/][GitHub]]       |                                | 著名的 Centaur Emacs，新手入门推荐          |
+| Sheng Yang         | @yangsheng6810 | [[https://github.com/yangsheng6810/dotfiles/][GitHub]]       |                                |                                             |
+| Sinkerine          | @sinker        | [[https://github.com/15cm/spacemacs-config][GitHub]]       | [[https://blog.15cm.net/][https://blog.15cm.net/]]         |                                             |
+| Sinxccc            | @sinxccc       | [[https://github.com/railwaycat/emacs-config][GitHub]]       | https://saturnpole.com/        |                                             |
+| SteamedFish        | @SteamedFish   | [[https://github.com/steamedfish/dotfiles][GitHub]]       | https://steamedfish.org/       |                                             |
+| Sunn Yao           | @cnsunyour     | [[https://github.com/cnsunyour/.doom.d][GitHub]]       | https://sunyour.org/           |                                             |
+| Tiou               | @douo          | [[https://github.com/douo/lims_dot_emacs][GitHub]]       | https://dourok.info            |                                             |
+| tshu-w             | @Voleking      | [[https://github.com/tshu-w/.emacs.d][Github]]       |                                | 旧的 Spacemacs [[https://github.com/tshu-w/spacemacs-configuration][配置]]                         |
+| Vonfry             | @Vonfry        | [[https://gitlab.com/Vonfry/dotfiles/-/tree/develop/config/emacs.d][GitLab]]       | https://vonfry.name            |                                             |
+| wgjak47            | @wgjak47       | [[https://github.com/wgjak47/dotfile][GitHub]]       | http://wgjak47.me/             |                                             |
+| 谢宇恒             | @xieyuheng     | [[https://github.com/xieyuheng/conf][GitHub]]       | https://xieyuheng.com          |                                             |
+| xiaokeke           | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                                |                                             |
+| yfzhe              | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                             |
+| Yinologist Citreu  |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                             |
+| Youmu              | @Youmu         | [[https://github.com/condy0919/.emacs.d][GitHub]]       | [[https://condy0919.github.io]]    |                                             |
+| zw963              | @zw963         | [[https://github.com/zw963/.emacs.d][Github]]       | https://zw963.online           |                                             |
 
 Telegram 上和 Emacs 相关的群有
 
