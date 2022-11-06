@@ -15,6 +15,7 @@
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨       | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
 | Claude Ray         | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/  |                                             |
 | Dσɠ LσσƙʂGσσԃ | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                             |
+|Eli                 | @Eli           | [[https://github.com/Elilif/.elemacs][Github]]       | [[https://elilif.github.io/][Eli's blog]]                     |                                             |
 | Erupmi             |                | [[https://github.com/AxiomCrisis/erupmacs][GitHub]]       |                                | 轻量级配置，尽可能使用内部 packages         |
 | Evan Meek          | @EvanMeek      | [[https://github.com/EvanMeek/.emacs.d][GitHub]]       | https://evanmeek.github.io/    | 简单且带有配套视频的一套配置                |
 | Harry Ying         | @lexuge        | [[https://github.com/LEXUGE/emacs.d][GitHub]]       | https://lexuge.github.io       | 一个带有预编译 emacs 配置发行版的 Nix Flake |
@@ -43,12 +44,12 @@
 | tshu-w             | @Voleking      | [[https://github.com/tshu-w/.emacs.d][Github]]       |                                | 旧的 Spacemacs [[https://github.com/tshu-w/spacemacs-configuration][配置]]                         |
 | Vonfry             | @Vonfry        | [[https://gitlab.com/Vonfry/dotfiles/-/tree/develop/config/emacs.d][GitLab]]       | https://vonfry.name            |                                             |
 | wgjak47            | @wgjak47       | [[https://github.com/wgjak47/dotfile][GitHub]]       | http://wgjak47.me/             |                                             |
-| 谢宇恒             | @xieyuheng     | [[https://github.com/xieyuheng/conf][GitHub]]       | https://xieyuheng.com          |                                             |
 | xiaokeke           | @kekeQAQ       | [[https://github.com/keke-cute/.emacs.d][GitHub]]       |                                |                                             |
 | yfzhe              | @yfzhe         | [[https://github.com/yfzhe/.emacs.d][GitHub]]       |                                |                                             |
 | Yinologist Citreu  |                | [[https://framagit.org/citreu/dotfiles][FramaGit]]     | https://cireu.github.io/       |                                             |
 | Youmu              | @Youmu         | [[https://github.com/condy0919/.emacs.d][GitHub]]       | [[https://condy0919.github.io]]    |                                             |
 | zw963              | @zw963         | [[https://github.com/zw963/.emacs.d][Github]]       | https://zw963.online           |                                             |
+| 谢宇恒             | @xieyuheng     | [[https://github.com/xieyuheng/conf][GitHub]]       | https://xieyuheng.com          |                                             |
 
 Telegram 上和 Emacs 相关的群有
 
