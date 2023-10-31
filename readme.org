@@ -14,6 +14,7 @@
 | ɓuızıuoI           | @Ionizing      | [[https://github.com/Ionizing/.emacs.d][GitHub]]       |                                |                                             |
 | 𝒞𝒽𝓇𝒾𝓈-脆脆鲨       | @Slmoby        | [[https://github.com/slmoby/.emacs.d][GitHub]]       | https://www.slmoby.top         |                                             |
 | Claude Ray         | @ClaudeRay     | [[https://github.com/Claude-Ray/spacemacs.d][GitHub]]       | https://claude-ray.github.io/  |                                             |
+| ColaWithSauce      | @colawithsauce | [[https://github.com/colawithsauce/private-doom][Github]]   |                                |                                             |
 | Dσɠ LσσƙʂGσσԃ | @doglookgood   | [[https://github.com/DogLooksGood/dogEmacs][Github]]       | http://doglooksgood.github.io/ |                                             |
 |Eli                 | @Eli           | [[https://github.com/Elilif/.elemacs][Github]]       | [[https://elilif.github.io/][Eli's blog]]                     |                                             |
 | Erupmi             |                | [[https://github.com/AxiomCrisis/erupmacs][GitHub]]       |                                | 轻量级配置，尽可能使用内部 packages         |
