@@ -7,6 +7,7 @@
 | 📝 427             | @stanley_427   | [[https://gitee.com/blindingdark/BEmacs][Gitee]]        | [[https://www.jianshu.com/u/ea4015fcb048][简书]]                           | [[https://github.com/blindingdark][GitHub]]                                      |
 | AbstProcDo         | @AbstProcDo    | [[https://github.com/AbstProcDo/engine-emacs][Github]]       |                          | emacs-doom在win11                           |
 | Aimee Zhu          | @aimeedeer     | [[https://github.com/Aimeedeer/emacs.d/tree/master][GitHub]]       | https://impl.dev               | [[https://github.com/Aimeedeer][GitHub]]                                      |
+| Alynx Zhou         | @AlynxZhou     | [[https://github.com/AlynxZhou/alynx-emacsd/][GitHub]]       | https://sh.alynx.one/          |                                             |
 | Amos Bird          | @amosbird      | [[https://github.com/amosbird/serverconfig][GitHub]]       | [[https://live.bilibili.com/21290308][B站直播]]                        |                                             |
 | Andy Warhol        | @andywarhol2   | [[https://github.com/Imymirror/imy-emacs.d][GitHub]]       |                                |                                             |
 | Arthur             | @pentaemacs    | [[https://github.com/lijigang/emacs.d][GitHub]]       | https://lijigang.com           |                                             |
